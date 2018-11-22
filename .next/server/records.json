@@ -1,0 +1,67 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "external \"react\"": 0,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!store.js": 1,
+      "external \"react-redux\"": 2,
+      "external \"redux\"": 3,
+      "external \"redux-devtools-extension\"": 4,
+      "external \"redux-thunk\"": 5,
+      "external \"next/app\"": 6,
+      "external \"@babel/runtime/regenerator\"": 7,
+      "external \"styled-jsx/style\"": 8,
+      "multi ./pages/_app.js": 9,
+      "multi ./pages/index.js": 10,
+      "multi node_modules/next/dist/pages/_error.js": 11,
+      "node_modules/next/dist/pages/_error.js": 12,
+      "external \"next/error\"": 13,
+      "multi node_modules/next/dist/pages/_document.js": 14,
+      "node_modules/next/dist/pages/_document.js": 15,
+      "external \"next/document\"": 16,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js e774fb86c51f0862aed1d22846a14813": 17,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/_app.js b353ddcefe9d9f715000925998388dd4": 18,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js bfa864d6f0cd86522c96518d264c5226": 17,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/_app.js 3a22c854cd43177dd5ee20a99c07c111": 18
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static\\AeI8J8KORXU5J1TGoI25a\\pages\\_app.js": 0,
+      "static\\AeI8J8KORXU5J1TGoI25a\\pages\\index.js": 1,
+      "static\\AeI8J8KORXU5J1TGoI25a\\pages\\_error.js": 2,
+      "static\\AeI8J8KORXU5J1TGoI25a\\pages\\_document.js": 3,
+      "static\\QACMXn7WKwKhGU7~TM4xE\\pages\\_app.js": 4,
+      "static\\QACMXn7WKwKhGU7~TM4xE\\pages\\index.js": 5,
+      "static\\QACMXn7WKwKhGU7~TM4xE\\pages\\_error.js": 6,
+      "static\\QACMXn7WKwKhGU7~TM4xE\\pages\\_document.js": 7
+    },
+    "bySource": {},
+    "usedIds": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}
